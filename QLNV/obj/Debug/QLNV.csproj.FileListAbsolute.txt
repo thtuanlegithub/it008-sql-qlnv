@@ -1,0 +1,12 @@
+C:\Users\thanh\source\repos\IT008_SQL\QLNV\bin\Debug\QLNV.exe.config
+C:\Users\thanh\source\repos\IT008_SQL\QLNV\bin\Debug\QLNV.exe
+C:\Users\thanh\source\repos\IT008_SQL\QLNV\bin\Debug\QLNV.pdb
+C:\Users\thanh\source\repos\IT008_SQL\QLNV\obj\Debug\QLNV.csproj.AssemblyReference.cache
+C:\Users\thanh\source\repos\IT008_SQL\QLNV\obj\Debug\QLNV.csproj.SuggestedBindingRedirects.cache
+C:\Users\thanh\source\repos\IT008_SQL\QLNV\obj\Debug\QLNV.Form1.resources
+C:\Users\thanh\source\repos\IT008_SQL\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+C:\Users\thanh\source\repos\IT008_SQL\QLNV\obj\Debug\QLNV.csproj.GenerateResource.cache
+C:\Users\thanh\source\repos\IT008_SQL\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+C:\Users\thanh\source\repos\IT008_SQL\QLNV\obj\Debug\QLNV.exe
+C:\Users\thanh\source\repos\IT008_SQL\QLNV\obj\Debug\QLNV.pdb
+C:\Users\thanh\source\repos\IT008_SQL\QLNV\obj\Debug\QLNV.FormThem.resources
